@@ -20,10 +20,6 @@
 
 ---
 
-<p align="center">
-	<img src="frontend/public/Cards.webp" alt="DevBits App Preview" width="100%" />
-</p>
-
 ## Product Identity
 
 DevBits is where developers document real progress, not vanity metrics.
