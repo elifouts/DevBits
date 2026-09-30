@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="frontend/public/Devbits_Icons.png" alt="DevBits Logo" width="120" />
+	<img src="frontend/public/Devbits_Icons.png" alt="DevBits Logo" width="120" /> 
 </p>
 
 <h1 align="center">DevBits</h1>
